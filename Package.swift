@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "LiftoffMonetizeAdapter",
-            url: "https://dl.google.com/googleadmobadssdk/mediation/ios/liftoffmonetize/LiftoffMonetizeAdapter-7.5.1.0.zip",
-            checksum: "3b582e799e26f346ca923c768726a49de14c80a854143684e43d0314e0a4256e"
+            url: "https://dl.google.com/googleadmobadssdk/mediation/ios/liftoffmonetize/LiftoffMonetizeAdapter-7.6.1.0.zip",
+            checksum: "6092c9ded9f046ee9abd677b9135f4e9f38189afd62243dc5ecbb4478e0adc54"
         )
     ]
 )
